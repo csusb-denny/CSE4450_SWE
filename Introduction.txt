@@ -1,0 +1,62 @@
+//shell: actual housing around something
+// windows = is surrounded by shell (GUI)
+//kernel: core, inside shell. Do not touch
+
+Do not try to hide anything.
+Day 1 or 1 Day
+
+
+by wednesday (will be remote)
+~
+github account using student email
+take a picture of activity graph and your name.
+save it as jpeg or pdf
+
+//Form Team 
+//Document your team
+//Design a software
+//      Useful software
+//      Collab using personal gitHub or student account
+//       
+
+
+
+dummy homework: login to gitHub
+                visualization calendar
+                github activity graph
+
+4450 - SW Engineering - 26 August 24
+
+SW -> some topics (below), some software(Atlassian), some techniques
+
+Git vs Github
+GitHub capabilities
+    Collaborations
+    Keep track of changes for future reference
+
+oS components (shell vs. Kernel)
+    Interface(same as interacting)
+    we interface with the OS by system.calls
+
+Automation: 
+    Something being done not manually.
+    Walking replaced by vehicle automation
+        Techniques: 
+            Algorithms 
+            Strageties
+            Applications:
+                CLI (CMD Line, Text)
+                Visual 
+                Youtube (Turned Text to video) 
+
+Idea to prototype to commericialization: 
+    Code Review:
+    Project Report:
+
+//Collaborative and Online - cloud based.
+Jira: Task Management and Task Distrubution program
+    GitHub = Code, Jira = Task
+
+Confluence: Team collaborate and Manage projects
+    Online tool: distrubitive project reporting
+                 book keeping reports.
