@@ -1,0 +1,119 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4 September 2024 Software Engineering In-Class-Lecture
+            Learn Software
+(trust is the biggest thing at a company.)
+    see the big picture:
+        get a topic and get zoned in it
+
+Wednesday Breakdown: 
+    end to end software development
+    what is bad software development?
+        stay on track to do good software Engineering
+        same as a human, as long as you're not a bad person you are good enough.
+        minimum expectation is to not be bad. same as software Engineering
+
+    Pipeline of Software Development:
+
+        Junior: Work is based off a task level. Complete the task.
+            -Write Code
+        Senior: Project level - Break down project and assign it to junior level.
+            -Write/Review Code
+        Staff/Manager: Team Level, worry about a team of developers.
+            -Get Team Reports
+        Senior Manager: Organization Level. multiple teams under you.
+            -Get Organization Reports
+        Director/CEO: Company
+            -Get Company-wide Reports
+     
+    Virtual Machine: Operating system inside oS
+        Booting and Shutting down, time consuming.
+
+    Example: Containers on a ship. (hundreds of containers) //Containers are virtual machines but without simulating the entire computer
+        different things in each containers                 //rather create a sand boxed enviroment that pretends to be a virtual machines
+        a container holds things in side...
+        organization, loading and unloading..
+            standard shape of contain makes it easy
+            (can it be done with computers?)
+                    essentially: container == VM without an operating system inside.
+                                 no boot or shutdown time.
+
+         //Cuperneeties, the synchronizer of the concert. who synchronizing the docker.
+
+    Docker: 
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+What is a Big Ball of Mud?
+    Lack of structure, organization, and clear separation of concerns.
+What are anti-patterns in the context of software development?:
+
+    ~Big Ball of Mud: (Keep your code Modular, team work with team assignments)
+        a system where components are tightly coupled and difficult to understand to change.
+        results from a lack of planning or a focus on immediate functionality over manintainability
+
+    ~Throwaway Code:  (Think about the long term solution, putting a band-aid)
+        practice of writing code without the intention of maintaining it in the long term.
+        lead to technical debt and increased development cost
+
+    ~Piecemeal Growth:(If you're hungry don't buy groceries, you want things that you don't need)
+        occurs when a system is developed incrementally without a clear overall architexture of design.
+        result: messy and difficult-to-maintain code base 
+    
+    ~Keep it Working: (over time you will result in bugs. the number of bugs will result in issues) 
+        mindset where developers focus on fixing immediate problems rather than addressing underlying issue
+        result: lead to technical debt and a fragile system, hard to evolve.
+
+    (~The Common Reason for the following above: Procrastination.~)
+
+    ~Shearing Layers: (If you combine two layers that should be seperate, it will be hard to manage)
+        occurs when layers in a system are too tightly coupled, making it diffulting to modify or reuse.
+
+    ~Sweeping it Under the Rug: (hide it or put it for later...)
+        ignoring or hiding problems rather than addressing them.
+        result: larger problem in the future
+        
+    ~Reconstruction: (restarting. sometimes its so painful that its easier to start from scratch.)
+        coompletely rewriting the system from scratch rather than refactoring it incrementally.
+        result: time consuming and risky.
+        
+    Refactoring: If its doable fixable
+    Reconstruction: better to start over from scratch
+
+OSCII
+All 
+people
+sip 
+not
+doctor
+pepper
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Production Line:
+    if one assembly department fails, the rest can still continue.
+        Example: Airplane
+            Dividing the work in small pieces and allow teams to do it.
+            Why?: Easier to manage. Fixing alot of tiny pieces is easier to fix
+                  than one large piece.
+                  Focus on trouble shooting one zone than multiple
+
+    Modular System Design:
+        Many many small departments to create.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
